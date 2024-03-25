@@ -12,6 +12,15 @@
 		"ghcr.io/itsmechlark/features/postgresql:1": {
 			"version": "latest"
 		}
+	},
+	"workspaceFolder": "/workspace/elixir-phoenix-todo/hello_world",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"JakeBecker.elixir-ls",
+				"GitHub.copilot"
+			]
+		}
 	}
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
