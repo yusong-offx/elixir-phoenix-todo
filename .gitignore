@@ -1,5 +1,0 @@
-_build
-.elixir_ls
-.github
-deps
-mix.lock
